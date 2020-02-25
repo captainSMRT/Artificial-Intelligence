@@ -1,0 +1,305 @@
+Testing with the following weights...
+Bias weight: 12.100000000000037 | Attribute1Weight: -5.27999999991339 | Attribute2Weight: -16.80000000011274 | Attribute3Weight: 28.34000000003627 | Attribute4Weight: 38.750000000657735
+Testing with element 1: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 2: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 3: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 4: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 5: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 6: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 7: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 8: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 9: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 10: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 11: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 12: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 13: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 14: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 15: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 16: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 17: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 18: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 19: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 20: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 21: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 22: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 23: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 24: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 25: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 26: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 27: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 28: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 29: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 30: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 31: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 32: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 33: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 34: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 35: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 36: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 37: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 38: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 39: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 40: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 41: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 42: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 43: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 44: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 45: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 46: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 47: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 48: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 49: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 50: 
+Match: true | Activation: 1 | Target :Iris-setosa
+Testing with element 51: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 52: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 53: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 54: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 55: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 56: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 57: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 58: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 59: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 60: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 61: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 62: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 63: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 64: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 65: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 66: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 67: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 68: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 69: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 70: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 71: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 72: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 73: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 74: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 75: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 76: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 77: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 78: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 79: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 80: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 81: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 82: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 83: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 84: 
+Match: false | Activation: 3 | Target :Iris-virginica
+Testing with element 85: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 86: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 87: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 88: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 89: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 90: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 91: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 92: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 93: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 94: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 95: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 96: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 97: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 98: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 99: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 100: 
+Match: true | Activation: 2 | Target :Iris-versicolor
+Testing with element 101: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 102: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 103: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 104: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 105: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 106: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 107: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 108: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 109: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 110: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 111: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 112: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 113: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 114: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 115: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 116: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 117: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 118: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 119: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 120: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 121: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 122: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 123: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 124: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 125: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 126: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 127: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 128: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 129: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 130: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 131: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 132: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 133: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 134: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 135: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 136: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 137: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 138: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 139: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 140: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 141: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 142: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 143: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 144: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 145: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 146: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 147: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 148: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 149: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing with element 150: 
+Match: true | Activation: 3 | Target :Iris-virginica
+Testing complete
+Number of matches: 149
+Number of mismatches: 1
